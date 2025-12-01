@@ -2,7 +2,7 @@
 ### Full-Stack Software Engineer  
 **React • Ruby on Rails • UX-Driven Product Development**
 
-I'm a full-stack engineer with 4+ years of experience building user-centric applications across web and mobile. I specialise in **React**, **Ruby on Rails**, **React Native**, and modern front-end development with a focus on accessibility, performance, and intuitive UX.
+I'm a full-stack engineer with 4+ years of experience building user-centric applications across web and mobile. I specialise in **React**, **Ruby on Rails**, **React Native**, **Nextjs**, and modern front-end development with a focus on accessibility, performance, and intuitive UX.
 
 🌐 **Portfolio:** https://afzalmiah.dev  
 📊 **Sentiment Visualisation Project:** https://sentiment.afzalmiah.dev  
@@ -18,8 +18,7 @@ I'm a full-stack engineer with 4+ years of experience building user-centric appl
 
 ## 🚀 Featured Projects
 - **Portfolio Website:** https://afzalmiah.dev  
-- **Sentiment Visualisation (Debate Analysis):** https://sentiment.afzalmiah.dev  
-- **Election Project:** Interactive data visualisation of debate sentiment  
+- **Sentiment Visualisation (NLP Debate Analysis):** https://sentiment.afzalmiah.dev  
 - **Game Project:** 2D side-scroller platformer  
 
 ---
@@ -27,4 +26,4 @@ I'm a full-stack engineer with 4+ years of experience building user-centric appl
 ## 📫 Contact
 - **Email:** affyzal@gmail.com  
 - **GitHub:** https://github.com/affyzal  
-- **LinkedIn:** [linkedin.com/in/...](#)  
+- **LinkedIn:** https://www.linkedin.com/in/afzal-miah/
